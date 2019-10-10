@@ -1,6 +1,6 @@
 name: config
 title: Server Config
-version: 1
+version: v9.0.0.1
 start_page: ROOT:serverConfiguration.adoc
 nav:
 - modules/ROOT/nav.adoc
