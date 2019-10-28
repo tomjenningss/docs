@@ -1,5 +1,5 @@
 name: microprofile-javadoc
-title: Microprofile Javadoc
+title: Microprofile API
 version: test
 start_page: ROOT:liberty-javaee8-javadoc.adoc
 nav:
