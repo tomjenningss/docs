@@ -1,4 +1,4 @@
-name: features
+name: feature
 title: Server Features
 version: v9.0.0.1
 start_page: ROOT:featureOverview.adoc
