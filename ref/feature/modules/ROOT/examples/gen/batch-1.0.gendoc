@@ -27,6 +27,11 @@ To enable the Batch API 1.0 feature, add the following element declaration into 
 // end::config[]
 // tag::apis[]
 
+man:cbbackupmgr[1]
+
+man:batchPersistence[1]
+
+
 == Standard API packages provided by this feature
 * javadoc:javax.batch.api[]
 * javadoc:javax.batch.api.chunk[]
