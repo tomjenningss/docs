@@ -30,8 +30,7 @@ asciidoc:
     source-highlighter: highlightjs
     allow-uri-read: true
   extensions:
-    # - ./lib/ol-asciidoc-test.js
-    - ./lib/inline-man-macro.js
+    - ./lib/ol-asciidoc.js
 ui:
   bundle:
     url: src/main/content/antora_ui/build/ui-bundle.zip
