@@ -1,1 +1,1 @@
-* xref:latest@navigation:ROOT:partial$nav.adoc[]
+include::latest@navigation:ROOT:partial$nav.adoc[]
