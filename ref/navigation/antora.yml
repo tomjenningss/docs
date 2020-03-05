@@ -1,0 +1,7 @@
+# Note: This is a pageless component. This component is for building a global navigation that each other component includes as its own nav file so they will share the same navigation overall.
+name: global_nav
+title: nav
+version: latest
+# start_page: ROOT:logging.adoc
+nav:
+- modules/ROOT/nav.adoc
