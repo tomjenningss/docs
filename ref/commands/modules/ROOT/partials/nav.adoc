@@ -1,4 +1,3 @@
-.Command Title
 * xref:latest@command:ROOT:server-create.adoc[server create]
 * xref:latest@command:ROOT:server-start.adoc[server start]
 * xref:latest@command:ROOT:server-run.adoc[server run]

@@ -1,4 +1,3 @@
-.General Topics
 * xref:latest@general:cloud_native_microservices.adoc[Designing cloud-native microservices]
 * xref:latest@general:rest_microservices.adoc[RESTful microservices]
 * https://openliberty.io/guides/rest-intro.html[Creating a RESTful web service (Guide)]

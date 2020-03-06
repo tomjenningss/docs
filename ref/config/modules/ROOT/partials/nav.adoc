@@ -1,4 +1,3 @@
-.Server Configuration
 * xref:latest@config:serverConfiguration.adoc[OVERVIEW]
 * xref:latest@config:activationSpec.adoc[activationSpec]
 * xref:latest@config:activedLdapFilterProperties.adoc[activedLdapFilterProperties]

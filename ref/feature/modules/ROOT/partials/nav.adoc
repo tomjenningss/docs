@@ -1,4 +1,3 @@
-.Server Features
 * xref:latest@feature:featureOverview.adoc[OVERVIEW]
 * xref:latest@feature:appClientSupport-1.0.adoc[Application Client Support for Server]
 * xref:latest@feature:appSecurity-1.0.adoc[Application Security]
