@@ -1,0 +1,25 @@
+# This is the global navigation file that pulls in other nav files
+
+.Commands
+
+include::command:ROOT:partial$nav.adoc[]
+
+.Server Config
+
+include::config:ROOT:partial$nav.adoc[]
+
+.Server Features
+
+include::feature:ROOT:partial$nav.adoc[]
+
+.General References
+
+include::general:ROOT:partial$nav.adoc[]
+
+.Java EE Javadocs
+
+include::javaee-javadoc:ROOT:partial$nav.adoc[]
+
+.Microprofile Javadocs
+
+include::microprofile-javadoc:ROOT:partial$nav.adoc[]
