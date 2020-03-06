@@ -1,6 +1,6 @@
 # This is the global navigation file that pulls in other nav files
 .Test
-include::commands:ROOT:partial$nav.adoc[]
+include::command:ROOT:partial$nav.adoc[]
 include::config:ROOT:partial$nav.adoc[]
 include::feature:ROOT:partial$nav.adoc[]
 include::general:ROOT:partial$nav.adoc[]
