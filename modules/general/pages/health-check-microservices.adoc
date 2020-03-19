@@ -7,8 +7,8 @@
 //     IBM Corporation
 //
 :page-description:  A health check is a special REST API implementation that you can use to  validate the status of a microservice and its dependencies. MicroProfile Health enables services in an application to self-check their health and then publishes the overall health status to a defined endpoint.
-:seo-title: Enabling health checking of microservices
-:seo-description:  A health check is a special REST API implementation that you can use to  validate the status of a microservice and its dependencies. MicroProfile Health enables services in an application to self-check their health and then publishes the overall health status to a defined endpoint.
+:page-seo-title: Enabling health checking of microservices
+:page-seo-description:  A health check is a special REST API implementation that you can use to  validate the status of a microservice and its dependencies. MicroProfile Health enables services in an application to self-check their health and then publishes the overall health status to a defined endpoint.
 :page-layout: general-reference
 :page-type: general
 = Enabling health checking of microservices
