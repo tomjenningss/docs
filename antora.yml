@@ -3,6 +3,7 @@ title: DOCS OVERVIEW
 version: v9.0.0.4
 start_page: commands:server-commands.adoc
 nav:
+- modules/general/landing.adoc
 - modules/general/nav.adoc
 - modules/config/nav.adoc
 - modules/feature/nav.adoc
